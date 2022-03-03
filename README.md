@@ -11,7 +11,7 @@ Major Course Output in CSINTSY
      amidst the COVID-19 Pandemic. 
    - Most predicates were made in the form of questions; after they are asked, they will be asserted as either true or false.
    - TAA uses Prolog and backward chaining to answer and provide guidance to the traveler and their
-     party (in case they're not traveling alone). The maximum number of members of the any travel party
+     party (in case they're not traveling alone). The maximum number of members of any travel party
      is four, including the traveler using TAA.
    - A traveler consults the Trip Adviser Agent. During this consultation, TAA asks questions about their
      profile, their travel party (if not traveling alone), and then a recommendation: if they're (or their party) allowed
