@@ -6,6 +6,11 @@ Major Course Output in CSINTSY
 <img src="Other Deliverables/sample_convo_a.png" width="949px">
 <img src="Other Deliverables/sample_convo_b.png"></h1>
 
+✍🏽**Authors**
+   - Griffin, Faith Juliamae Orendain
+   - Tahimic, Kriz Royce Aranzanso
+   
+   
 📝**About**:
    - A Travel Adviser Agent (TAA) that can advise Filipino travelers from the Philippines as they plan to travel to Denmark 
      amidst the COVID-19 Pandemic. 
